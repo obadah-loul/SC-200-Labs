@@ -302,7 +302,7 @@ After creating the Data Collection Rule, I verified that the rule was connected 
 
 ![Data Collection Rule Connected](screenshots/22-data-collection-rule-connected.png)
 
-![Confirm Data Collection Rule Common Events](screenshots/23-confirm-data-collection-rule-common-events.png)
+![Confirm Data Collection Rule Common Events](scrennshots/23-confirm-data-collection-rule-common-filter.png)
 
 ## Result
 
